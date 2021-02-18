@@ -1,5 +1,5 @@
 ---
-title: What I can wok with
+title: Skills
 subtitle: a list of methods, techonologies and processes I'm profficient in
 layout: "page"
 icon: fa-book
