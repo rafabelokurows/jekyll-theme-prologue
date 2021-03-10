@@ -6,13 +6,13 @@ icon: fa-book
 order: 3
 ---
 
-When it comes to data, insights and IT, I know how to do a thing or two.
-And I'm always willing to learn new stuff!
+I'm always looking to learn new things, especially when it comes to data analysis and technology.
 
 - R
 - Python
 - SQL
-- Data Visualization platforms: Metabase, Power BI
+- Data Visualization platforms: Metabase, Power BI, Tableau
 - Excel
+- More to come soon...
 
-for more detail, check my [Resume](./assets/resume.pdf)
+for more detailed information, check my [Resume](./assets/resume.pdf)
