@@ -13,8 +13,7 @@ Then, in RStudio, toggle on the Visual Markdown editor clicking here:
 ![Visual Markdown Editor](https://miro.medium.com/max/875/1*AGovNAZGFxY0Q6Sh-oBesw.png "Visual Markdown Editor")
 Next, let’s see what it can do. While Markdown is an easy enough language to work with, it can always get better, especially for non-programmers or lazy people (that’s okay, we’ve all been there). Here’s some of the stuff you can do with Visual Editor:
 Basic text formatting: stuff like putting text in bold, creating a header, bullet lists, and all of the basic stuff is easier than ever.
-
-
+![Visual Markdown Editor](https://miro.medium.com/max/875/1*s5005jlkLq0-aHX72iUTeA.gif "Text Formatting in RStudio Markdown")
 Insert (and edit) tables: if you already worked with Markdown, you know what a pain it can be to insert and work with tables in it.
 
 
