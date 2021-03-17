@@ -10,7 +10,7 @@ That’s changed with the most recent version of RStudio. RStudio 1.4, though. T
 First, make sure you have RStudio 1.4 installed in your environment. You can download the latest RStudio version here:
 https://rstudio.com/products/rstudio/download/
 Then, in RStudio, toggle on the Visual Markdown editor clicking here:
-
+![Visual Markdown Editor](https://miro.medium.com/max/875/1*AGovNAZGFxY0Q6Sh-oBesw.png "Visual Markdown Editor")
 Next, let’s see what it can do. While Markdown is an easy enough language to work with, it can always get better, especially for non-programmers or lazy people (that’s okay, we’ve all been there). Here’s some of the stuff you can do with Visual Editor:
 Basic text formatting: stuff like putting text in bold, creating a header, bullet lists, and all of the basic stuff is easier than ever.
 
