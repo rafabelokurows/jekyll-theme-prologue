@@ -1,0 +1,70 @@
+---
+title: Visualizations
+icon: fa-th
+order: 3
+---
+
+<p>Some interesting visualizations I've created.</p>
+
+  <div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/cover comparison regressions.jpg' | https://github.com/rafabelokurows/comparison-regression }}" alt="Comparing Regression Models in Python" /></a>
+        <header>
+          <h3>Comparing Regression Models - Python</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/carrie.png' | relative_url }}" alt="Text Mining - Carrie by Stephen King" /></a>
+        <header>
+          <h3>Text Mining Stephen King's Carrie - NLP in R</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/grafana.png' | relative_url }}" alt="Dashboard with Grafana" /></a>
+        <header>
+          <h3>Connecting Postgres database - Grafana, Postgres</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/scatter-plot-powerbi.png' | relative_url }}" alt="Analysis of Happiness Report - Power BI" /></a>
+        <header>
+          <h3>Analysis of Happiness Report - Power BI</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/spotify.jfif' | relative_url }}" alt="Working with Spotify data in R" /></a>
+        <header>
+          <h3>Spotify data - R</h3>
+        </header>
+      </div>
+     <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/eda.jfif' | relative_url }}" alt="Functions for EDA in R" /></a>
+        <header>
+          <h3>Functions for EDA - R</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/trends.png' | relative_url }}" alt="Google Trends data" /></a>
+        <header>
+          <h3>Google Trends data - R</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/viz1.png' | relative_url }}" alt="Words in Brazilian Constitution" /></a>
+        <header>
+          <h3>Words in the Brazilian Constitution - R</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/more-coming.png' | relative_url }}" alt="Text Mining - Carrie by Stephen King" /></a>
+        <header>
+          <h3>More Coming Soon</h3>
+        </header>
+      </div>
+    </div>
+  </div>
