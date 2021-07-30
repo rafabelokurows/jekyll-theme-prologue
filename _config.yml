@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rafael's Portfolio
-subtitle: Data Scientist
+title: Rafael Belokurows
+subtitle: Data-curious
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Rafael, 31 years old, living in Portugal and trying to further my career in Data Science
 author: Rafael Belokurows
