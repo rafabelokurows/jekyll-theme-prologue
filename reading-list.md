@@ -11,7 +11,7 @@ I'm always looking to learn new things, especially when it comes to data analysi
 - R programming language
 - Python
 - SQL and relational databases: Postgres, IBM DB2
-- Data Visualization platforms: Metabase, Power BI, Tableau
+- Data Visualization platforms: Google Data Studio, Power BI
 - Tool for monitoring and observability: Grafana
 - Excel
 - Business Analysis
