@@ -2,7 +2,7 @@
 title: Skills
 subtitle: a list of techonologies and methods I'm profficient in
 layout: "page"
-icon: fa-book
+icon: fa-wrench
 order: 3
 ---
 
