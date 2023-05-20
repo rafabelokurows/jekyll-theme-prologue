@@ -7,3 +7,7 @@ title: Rafael Belokurows
 icon: fa-home
 order: 1
 ---
+<header>
+  <h2 class="alt"><strong>Hi, I'm Rafael Belokurows, Data Analyst based in Porto, Portugal.</strong></h2> 
+  <p>Check out my <a href="/assets/resume.pdf">Resume</a> and my <a href="https://github.com/rafabelokurows/">GitHub repository</a> to see some of the recent projects and Data visualizations I've been working on.</p>
+</header>
