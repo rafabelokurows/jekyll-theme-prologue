@@ -4,8 +4,9 @@ layout: "page"
 icon: fa-wrench
 order: 4
 ---
-Tools: R | Python | SQL | Power BI | Tableau | Excel | Databases | Other visualization tools | ETL | SSIS/SSAS
-Interests: Time Series Forecasting | Geospatial Analysis | Predictive Analytics | Customer Segmentation | Retention and Churn Analysis  
+Tools: R | Python | SQL | Power BI | Tableau | Excel | Databases | Other visualization tools | ETL | SSIS/SSAS  
+
+Interests: Time Series Forecasting | Geospatial Analysis | Predictive Analytics | Customer Segmentation | Retention and Churn Analysis | Transport, Mobility and Urban Planning | Environment and Climate Change
 <!-- subtitle: a list of techonologies and methods I'm profficient in -->
 <!-- 
 - R programming language: Data Analysis, Predictive Models and Data Visualization
