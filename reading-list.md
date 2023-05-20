@@ -3,7 +3,7 @@ title: Skills
 subtitle: a list of techonologies and methods I'm profficient in
 layout: "page"
 icon: fa-wrench
-order: 3
+order: 7
 ---
 
 I'm always looking to learn new things, especially when it comes to data analysis and technology.
