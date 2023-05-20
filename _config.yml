@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rafael Belokurows
-subtitle: Data Analyst/Scientist
+subtitle: Data Nerd
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Rafael, 33 years old, sleep-deprived Data Nerd
 author: Rafael Belokurows
@@ -45,7 +45,7 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-linkedin_url: https://www.linkedin.com/in/rafael-belokurows
+linkedin_url: https://www.linkedin.com/in/rafabws
 github_url: https://github.com/rafabelokurows
 instagram_url: https://www.instagram.com/rafabws/
 facebook_url: https://www.facebook.com/rafael.belokurows
