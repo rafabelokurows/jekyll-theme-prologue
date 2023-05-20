@@ -1,0 +1,8 @@
+---
+title: Resume
+icon: fa-file-text-o
+order: 7
+---
+<!-- <a href="#" class="image featured"><img src="assets/images/pic082.jpg" alt="" /></a> -->
+<p>I'm Rafael Belokurows, a Brazilian living in Porto.
+   I have been working for the past few years on data-related projects. I'm enthusiastic with ensuring data quality, creating automated pipelines, finding relevant trends and patterns in data and presenting meaningful conclusions to stakeholders. Some of the fields of greater interest for me are: Finance, Product Development, analysis with geographical dimensions, climate change, among others.</p>
