@@ -10,6 +10,6 @@ cover-photo: assets/images/banner3.jpg
 cover-photo-alt: Cover photo for a Great Data Analyst
 ---
 <header>
-  <h2 class="alt"><strong>Data Analyst based in Porto - Portugal who likes Data Analysis, cats, maps and football. Not in that particular order.</strong></h2> 
+  <h3 class="alt"><strong>Data Analyst based in Porto - Portugal who likes Data Analysis, Cats, Maps, Rock'n'roll, and Football. Not in any particular order.</strong></h3> 
   <p>Check out my <a href="/assets/resume.pdf">Resume</a> and <a href="https://github.com/rafabelokurows/">GitHub repository</a> to check out some of my recent Data projects and visualizations.</p>
 </header>
