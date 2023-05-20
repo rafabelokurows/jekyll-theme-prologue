@@ -1,11 +1,14 @@
 ---
 title: Skills
-subtitle: a list of techonologies and methods I'm profficient in
+<!-- subtitle: a list of techonologies and methods I'm profficient in -->
 layout: "page"
 icon: fa-wrench
 order: 5
 ---
+Tools: R | Python | SQL | Power BI | Tableau | Excel | Databases | Other visualization tools | ETL | SSIS/SSAS
+Interests: Time Series Forecasting | Geospatial Analysis | Predictive Analytics | Customer Segmentation | Retention and Churn Analysis  
 
+<!-- 
 - R programming language: Data Analysis, Predictive Models and Data Visualization
 [Web app for demonstrating Multiple Time Series Forecasting](https://rafabelokurows.shinyapps.io/TimeSeriesPrediction/?_ga=2.247693639.1903109664.1642792284-1085722634.1641321539)  
 [Web app for matching CVs with job ads](https://rafabelokurows.shinyapps.io/JobMatcher/?_ga=2.59934317.1903109664.1642792284-1085722634.1641321539)
@@ -25,4 +28,4 @@ Data Visualization platforms:
 - Business Analysis
 - Scrum and Agile Methodologies
 - Tool for monitoring and observability: Grafana Labs
-for more detailed information, check my [Resume](./assets/resume.pdf)
+for more detailed information, check my [Resume](./assets/resume.pdf) -->
