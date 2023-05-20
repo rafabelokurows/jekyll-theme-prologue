@@ -6,6 +6,8 @@ layout: home
 title: Home
 icon: fa-home
 order: 1
+cover-photo: assets/images/banner3.jpg
+cover-photo-alt: Cover photo for a Great Data Analyst
 ---
 <header>
   <h2 class="alt"><strong>Hi, I'm Rafael Belokurows, Data Analyst based in Porto, Portugal.</strong></h2> 
