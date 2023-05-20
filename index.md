@@ -3,13 +3,13 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title:
+title: Rafael Belokurows
 icon: fa-home
 order: 1
 cover-photo: assets/images/banner3.jpg
 cover-photo-alt: Cover photo for a Great Data Analyst
 ---
 <header>
-  <h2 class="alt"><strong>Hi, I'm Rafael Belokurows, Data Analyst based in Porto, Portugal.</strong></h2> 
-  <p>Check out my <a href="/assets/resume.pdf">Resume</a> and my <a href="https://github.com/rafabelokurows/">GitHub repository</a> to see some of the recent projects and Data visualizations I've been working on.</p>
+  <h2 class="alt"><strong>Data Analyst based in Porto - Portugal who likes Data Analysis, cats, maps and football. Not in that particular order.</strong></h2> 
+  <p>Check out my <a href="/assets/resume.pdf">Resume</a> and <a href="https://github.com/rafabelokurows/">GitHub repository</a> to check out some of my recent Data projects and visualizations.</p>
 </header>
