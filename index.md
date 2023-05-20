@@ -11,5 +11,5 @@ cover-photo-alt: Cover photo for a Great Data Analyst
 ---
 <header>
   <h3 class="alt"><strong>Data Analyst based in Porto - Portugal who likes Data Analysis, Cats, Maps, Rock'n'roll, and Football. Not in any particular order.</strong></h3> 
-  <p>Check out my <a href="/assets/CV Rafael Belokurows - May 23.pdf">Resume</a> and <a href="https://github.com/rafabelokurows/">GitHub repository</a> to check out some of my recent Data projects and visualizations.</p>
+  <p>Check out my <a href="/assets/CV Rafael Belokurows - May 23.pdf">Resume</a> and <a href="https://github.com/rafabelokurows/">GitHub repository</a> to see some of my recent Data projects and visualizations.</p>
 </header>
