@@ -10,7 +10,7 @@ cover-photo: assets/images/banner4.jpg
 cover-photo-alt: Cover photo for a Great Data Analyst
 ---
 <header>
-  <h3 class="alt"><strong>Rafael Belokurows</strong></h3> 
+  <h1 class="alt"><strong>Rafael Belokurows</strong></h1> 
   <h4 class="alt"><strong>Data Scientist/Data Analyst</strong></h4>
   <p><a href="/assets/CV Rafael Belokurows - May 23.pdf">Resume</a> - <a href="https://github.com/rafabelokurows/">GitHub repository</a>.</p>
 </header>
