@@ -75,7 +75,7 @@
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 14pt;
+		font-size: 12pt;
 		font-weight: 300;
 		line-height: 1.25em;
 		color: #888;
@@ -361,7 +361,7 @@
 		}
 
 		textarea {
-			min-height: 14em;
+			min-height: 5em;
 		}
 
 		.formerize-placeholder {
@@ -456,14 +456,14 @@
 
 	.item {
 		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
-		margin-bottom: 40px;
+		margin-bottom: 20px;
 
 		header {
 			color: #666;
 			text-align: center;
 			background: #fff;
 			margin: 0;
-			padding: 1em;
+			padding: 0.8em;
 			font-size: 0.8em;
 
 			h3 {
@@ -509,7 +509,7 @@
 
 		.bottom {
 			@include vendor('flex-shrink', '0');
-			padding: 1.5em 0 0.75em 0;
+			padding: 1.5em 0 1em 0;
 
 			> :last-child {
 				margin-bottom: 0;
