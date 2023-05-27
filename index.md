@@ -10,6 +10,7 @@ cover-photo: assets/images/banner4.jpg
 cover-photo-alt: Cover photo for a Great Data Analyst
 ---
 <header>
-  <h3 class="alt"><strong>Data Scientist based in Portugal. I love Data Analytics, Cats, Maps, Rock'n'roll, and (American) Football, in no particular order.</strong></h3> 
-  <p>Check out my <a href="/assets/CV Rafael Belokurows - May 23.pdf">Resume</a> and <a href="https://github.com/rafabelokurows/">GitHub repository</a> to see some of my recent Data projects and visualizations.</p>
+  <h3 class="alt"><strong>Rafael Belokurows</strong></h3> 
+  <h4 class="alt"><strong>Data Scientist/Data Analyst</strong></h4>
+  <p><a href="/assets/CV Rafael Belokurows - May 23.pdf">Resume</a> - <a href="https://github.com/rafabelokurows/">GitHub repository</a>.</p>
 </header>
