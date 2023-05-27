@@ -6,7 +6,7 @@ layout: home
 title: Home
 icon: fa-home
 order: 1
-cover-photo: assets/images/banner4.jpg
+cover-photo: assets/images/banner-teste.jpg
 cover-photo-alt: Cover photo for a Great Data Analyst
 ---
 <header>
