@@ -21,3 +21,14 @@ I'm **Rafael Belokurows**, currently, working as a Data Analyst @ Kantar Worldpa
 I have been working for the past few years on Data Analytics projects. I'm enthusiastic with ensuring data quality, creating automated pipelines, finding relevant trends and patterns in data and presenting meaningful conclusions to stakeholders. Some of the fields of greater interest for me are: Finance, Product Development, analysis with geographical dimensions, climate change, among others  
 On a more personal note, I love Data Analytics, Cats, Photography, Maps, Rock'n'roll, and (American) Football, in no particular order.  
 
+
+[<img alt="Rafael Belokurows | E-mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/High-contrast-mail-mark-unread.svg" />][email]
+[<img  alt="Rafael Belokurows | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" />][linkedin]
+[<img  alt="Rafael Belokurows | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
+[<img alt="Rafael Belokurows | Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" />][instagram]
+[<img alt="Rafael Belokurows | Medium" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Medium.png"/>][medium]  
+[instagram]: https://instagram.com/rafabws
+[linkedin]: https://linkedin.com/in/rafael-belokurows
+[facebook]: https://www.facebook.com/rafael.belokurows
+[medium]: https://rafabelokurows.medium.com/
+[email]: mailto:rafabelokurows@gmail.com
