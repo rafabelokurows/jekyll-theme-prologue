@@ -1,7 +1,7 @@
 ---
 title: About Me
 icon: fa-user
-order: 7
+order: 6
 ---
 <!-- <a href="#" class="image featured"><img src="assets/images/pic082.jpg" alt="" /></a> -->
 <!-- Tools: R - Python - SQL - Power BI - Tableau - Excel - Databases - Looker Studio/Flourish/Metabase - ETL   -->
