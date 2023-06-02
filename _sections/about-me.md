@@ -17,6 +17,6 @@ On a more personal note, I love Data Analytics, Cats, Photography, Maps, Rock'n'
 💹 Time Series Analysis and Forecasting  
 🌎 Geographical Models, Transport and Urban Planning  
 🌲 Envinroment, Climate Change, and Sustainability  
-<img src="https://img.icons8.com/plasticine/38/bot.png" height="20" width="20" /> Web scraping and process automation  
+<img src="https://img.icons8.com/plasticine/38/bot.png" height="20" width="20" alt="little robot indicating interest in automating data pipelines" /> Web scraping and process automation  
 ⚖ ML interpretability with focus on fairness and equality  
 🏈 Football, Baseball, Soccer  
