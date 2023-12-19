@@ -1,5 +1,5 @@
 ---
-title: Covid US Vaccination report made on Google Data Studio
+title: Covid Vaccination report - Google Data Studio
 author: Rafael Belokurows
 layout: post
 ---
