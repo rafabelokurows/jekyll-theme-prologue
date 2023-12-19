@@ -1,5 +1,5 @@
 ---
-title: Dashboard on Happiness Report using Power BI
+title: Happiness Report - Power BI
 author: Rafael Belokurows
 layout: post
 ---
