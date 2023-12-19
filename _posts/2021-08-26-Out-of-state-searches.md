@@ -1,5 +1,5 @@
 ---
-title: Out-of-state Google Searches for each team in the nfl
+title: NFL team Google Searches
 author: Rafael Belokurows
 layout: post
 ---
