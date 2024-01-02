@@ -15,7 +15,7 @@ layout: default
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
 			{% if _post.author -%}{{- _post.author }} | {% endif %}
-			{{- _post.date | date_to_long_string -}}
+			{{- _post.date | date_to_long_string -}} |
 			{% if _post.subtitle -%}{{- _post.subtitle }} | {% endif %}
 		{%- endcapture -%}
 		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
