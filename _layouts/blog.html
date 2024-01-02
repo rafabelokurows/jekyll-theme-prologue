@@ -11,6 +11,10 @@ layout: default
 	<!-- Posts List -->
 	{%- for _post in _posts -%}
 		{%- capture _title -%}
+			<img src="{{- _post.img }}" alt="HTML tutorial" style="width:80px;height:80px;">
+<!-- 			<a href="{{- _post.url | absolute_url -}}">{{- _post.title -}}</a> -->
+		{%- endcapture -%}
+		{%- capture _title -%}
 			<a href="{{- _post.url | absolute_url -}}">{{- _post.title -}}</a>
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
@@ -18,7 +22,7 @@ layout: default
 			{{- _post.date | date_to_long_string -}} |
 			{% if _post.subtitle -%}{{- _post.subtitle }} | {% endif %}
 		{%- endcapture -%}
-		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
+		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 150 -}}</p>{%- endcapture -%}
 		{%- capture _link -%}<a href="{{- _post.url | absolute_url -}}">read more</a>{%- endcapture -%}
 		{%- assign _content = _excerpt | append: _link -%}
 		{%- include section.html title=_title subtitle=_subtitle content=_content -%}
