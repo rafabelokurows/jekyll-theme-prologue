@@ -2,6 +2,7 @@
 title: Markdown in RStudio
 author: Rafael Belokurows
 layout: post
+subtitle: R, reports
 ---
 
 # Editing Markdown notebooks in RStudio is now a piece of cake
