@@ -2,6 +2,7 @@
 title: Happiness Report - Power BI
 author: Rafael Belokurows
 layout: post
+subtitle: Data Visualization, Power BI
 ---
 
 # Dashboard on Happiness Report using Power BI
