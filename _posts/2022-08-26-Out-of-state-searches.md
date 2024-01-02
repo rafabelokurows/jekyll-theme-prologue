@@ -2,9 +2,10 @@
 title: NFL team Google Searches
 author: Rafael Belokurows
 layout: post
+subtitle: Trend analysis, Data Visualization, R
 ---
 
-# Out-of-state Google Searches for each NFL team
+# Trends of Google Searches for each NFL team (2022)
 
 tags: sports, R, Google Trends
 
