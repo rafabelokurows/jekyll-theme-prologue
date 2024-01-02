@@ -2,7 +2,7 @@
 title: Scraping basically any produt page with R
 author: Rafael Belokurows
 layout: post
-subtitle: Teste
+subtitle: Web Scraping, R
 ---
 
 When you are in the Retail business - or any business, for that matter, sometimes you need to obtain product data from the web page of some retailer and it's amazing the amount of information some of them provide. This obviously varies widely from company to company, but some examples of information are comprehensive product descriptions, barcodes, prices, images, etc..
