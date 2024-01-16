@@ -8,12 +8,9 @@ layout: default
 	{%- if page.content != "" -%}
 		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
 	{%- endif -%}
+	<h2>Some weirdly specific stuff that you probably won't find on any other place online.</h2>
 	<!-- Posts List -->
 	{%- for _post in _posts -%}
-		{%- capture _img -%}
-			<img src="{{- _post.img -}}" alt="HTML tutorial" style="width:80px;height:80px;">
-<!-- 			<a href="{{- _post.url | absolute_url -}}">{{- _post.title -}}</a> -->
-		{%- endcapture -%}
 		{%- capture _title -%}
 			<a href="{{- _post.url | absolute_url -}}">{{- _post.title -}}</a>
 		{%- endcapture -%}
