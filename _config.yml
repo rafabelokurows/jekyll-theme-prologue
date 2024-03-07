@@ -44,17 +44,17 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-linkedin_url: https://www.linkedin.com/in/rafabws
+linkedin_url: https://www.linkedin.com/in/rafabelo
 github_url: https://github.com/rafabelokurows
 instagram_url: https://www.instagram.com/rafabws/
-facebook_url: https://www.facebook.com/rafael.belokurows
+#facebook_url: https://www.facebook.com/rafael.belokurows
 resume: /assets/CV Rafael Belokurows - May 23.pdf
 twitter_url:
 googleplus_url:
 stackoverflow_url:
 pinterest_url:
 slack_url:
-dribbble_url: /assets/CV Rafael Belokurows - May 23.pdf
+dribbble_url: /assets/CV Rafael Belokurows_24.pdf
 
 # Google Analytics Tracking ID goes here:
 google_analytics: G-5YL8R0QW67
